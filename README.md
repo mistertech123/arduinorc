@@ -1,3 +1,3 @@
 # arduinorc
 RC Car powered by Arduino
-This is a basic RC Car that is contolled by an Arduino Pro Micro (SparkFun) and a L298N motor controller and 2 Litium Ion batteries.
+This is a basic RC Car that is contolled by a (SparkFun) Arduino Pro Micro and a L298N motor controller and 2 Litium Ion batteries.
