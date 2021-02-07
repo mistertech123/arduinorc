@@ -101,4 +101,5 @@ void goSteerRight()   //Activate steer right and forward
 void loop()
 {
   goStraight();
+  goSteerRight();
 }
