@@ -47,7 +47,7 @@ void goStraight()   //run both motors in the same direction
   digitalWrite(In4, HIGH);
   // set speed to 150 out 255
   analogWrite(EnB, 50);
-  delay(200);
+  delay(10);
 }
 void goReverse()   //run both motors in the same direction reversed
 {
@@ -96,7 +96,7 @@ void goSteerRight()   //Activate steer right and forward
   digitalWrite(In4, HIGH);
   // set speed to 150 out 255
   analogWrite(EnB, 50);
-  delay(160);
+  delay(137);
 }
 void loop()
 {
